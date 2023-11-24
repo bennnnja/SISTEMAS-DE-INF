@@ -8,6 +8,10 @@
     font-family: 'Poppins', sans-serif;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 :root{
     --color_text-primary: #ff5800;
     --color_text-secundary: #ffffff;
